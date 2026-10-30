@@ -5,6 +5,9 @@
 **Salida del terminal:**
 
 ```bash
+dev@VM-W11DEV UCRT64 /c/DAM/ED/
+$ mkdir CD_Tema1_conflictos-git && cd CD_Tema1_conflictos-git
+
 dev@VM-W11DEV UCRT64 /c/DAM/ED/CD_Tema1_conflictos-git
 $ git init -b main
 Initialized empty Git repository in C:/DAM/ED/CD_Tema1_conflictos-git/.git/
@@ -97,7 +100,7 @@ Delta compression using up to 2 threads
 Compressing objects: 100% (4/4), done.
 Writing objects: 100% (10/10), 971 bytes | 323.00 KiB/s, done.
 Total 10 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/dv-coding/CD_Tema1_conflictos-git
+To https://github.com/dv-coding/DAM_CD_Tema1_conflictos-git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
 
@@ -106,8 +109,8 @@ $ git push --all origin
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 remote:
 remote: Create a pull request for 'feature/nuevo-saludo' on GitHub by visiting:
-remote:      https://github.com/dv-coding/CD_Tema1_conflictos-git/pull/new/feature/nuevo-saludo
+remote:      https://github.com/dv-coding/DAM_CD_Tema1_conflictos-git/pull/new/feature/nuevo-saludo
 remote:
-To https://github.com/dv-coding/CD_Tema1_conflictos-git
+To https://github.com/dv-coding/DAM_CD_Tema1_conflictos-git
  * [new branch]      feature/nuevo-saludo -> feature/nuevo-saludo
 ```
